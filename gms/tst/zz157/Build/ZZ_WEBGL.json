@@ -1,7 +1,7 @@
 {
 "companyName": "NecroUnion",
 "productName": "ZigZagged",
-"productVersion": "1.5.7",
+"productVersion": "1.5.8",
 "dataUrl": "ZZ_WEBGL.data.unityweb",
 "asmCodeUrl": "ZZ_WEBGL.asm.code.unityweb",
 "asmMemoryUrl": "ZZ_WEBGL.asm.memory.unityweb",
